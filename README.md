@@ -4,7 +4,7 @@ The details of the codeset and plots are included in the attached Microsoft Word
 You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
 Polite Package - A Brief Introduction
-=====================================
+======================================
 
 The goal of polite is to promote responsible web etiquette.
 
